@@ -1,0 +1,31 @@
+{
+  "name": "ushell-module-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap for ushell modules.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-bootstrap.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-bootstrap"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-bootstrap/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-bootstrap",
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^14.2.1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
