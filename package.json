@@ -9,9 +9,14 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-bootstrap"
+    "module",
+    "bootstrap",
+    "ubuntu",
+    "macos",
+    "centos",
+    "boot",
+    "initialize",
+    "init"
   ],
   "license": "MIT",
   "bugs": {
